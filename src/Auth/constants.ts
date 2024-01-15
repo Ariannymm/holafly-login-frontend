@@ -1,1 +1,1 @@
-export const API_URL = "https://api-holafly-vercel-qz6mvfeu0-ariannymm.vercel.app"
+export const API_URL = "https://api-holafly-vercel-qz6mvfeu0-ariannymm.vercel.app/api"
