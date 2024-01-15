@@ -31,8 +31,8 @@ export default function Home() {
     }
 
     useEffect(() => {
-            console.log(getCards());
-            getCards();
+        console.log(getCards());
+        getCards();
     }, []);
 
     const handleFilter = (status: string) => {

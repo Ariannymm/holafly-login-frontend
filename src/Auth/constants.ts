@@ -1,1 +1,1 @@
-export const API_URL = "http://localhost:3100/api"
+export const API_URL = "https://api-holafly-vercel-6vkzdnu8p-ariannymm.vercel.app/"
